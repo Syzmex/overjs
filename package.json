@@ -1,0 +1,26 @@
+{
+  "name": "overjs",
+  "version": "0.0.1",
+  "description": "一个物理动画库",
+  "keywords": [],
+  "homepage": "http://overjs.com",
+  "author": "mArker",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xutou12/overjs.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": "MIT",
+  "spm": {
+    "main": "index.js",
+    "dependencies": {},
+    "devDependencies": {
+      "expect.js": "0.3.1"
+    }
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10"
+  }
+}
