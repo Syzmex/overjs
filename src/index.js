@@ -2,7 +2,7 @@
 // OverJs
 // 2015-12-12
 
-import itis from 'whatitis';
+import is from 'whatitis';
 import invariant from 'invariant';
 
 // f = uN
